@@ -47,7 +47,7 @@ function Login() {
                     >
                         <Heading mb={10} mt="-60px" textAlign="center">Member Login</Heading>
                         <Input
-                            placeholder="Shivamgote@hotmail.com"
+                            placeholder="prince@gmail.com"
                             type="email"
                             variant="filled"
                             mb={3}

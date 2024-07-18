@@ -13,7 +13,6 @@ function Navbar() {
                     </Box>
 
 
-                        <img style={{height:"50px" ,width:"20%" ,margin:"auto",marginTop:"-50px",marginLeft:"500px"}} src="https://cdn.dribbble.com/users/977639/screenshots/2510794/media/a038649016c2728ce78a574b761fc9f1.jpg?compress=1&resize=400x300" alt="" />
                 </Link>
                 <Spacer />
 
